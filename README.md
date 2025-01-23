@@ -12,4 +12,9 @@
 
 use this route <b>/audio/:id</b> , the id is from the JSON and this route will respond back with base64 encoded string of audio file corresponded to the audio id  
 
+# apache benchmark result for 1000 cuncurrent request
+![image](https://github.com/user-attachments/assets/bb5dfc74-e3a5-4661-a11d-06e1cf5bd499)
+
+# Valgrind summary about memory leaks
+![image](https://github.com/user-attachments/assets/0ed024d1-cf1e-4bff-852f-5ee936b20f4e)
 
