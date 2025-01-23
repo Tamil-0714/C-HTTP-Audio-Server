@@ -1,0 +1,8 @@
+# Ignore specific folders
+demo/
+fusicPlayer/
+package/
+soundsx/
+src/
+trash/
+.vscode/
